@@ -1,0 +1,3 @@
+[submodule "dist"]
+    path = components/Basics
+    url = https://github.com/CoderMian/Resturant_Template.git
